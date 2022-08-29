@@ -1,0 +1,39 @@
+[
+    {
+        "id": "e1190c58b4980899",
+        "type": "ui_text",
+        "z": "8c2fd058451acc44",
+        "group": "ee2713b3e13b49d1",
+        "order": 0,
+        "width": "6",
+        "height": "2",
+        "name": "",
+        "label": "La fecha y hora ectual es:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 670,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "ee2713b3e13b49d1",
+        "type": "ui_group",
+        "name": "Fecha formato legible",
+        "tab": "1366718bd46fbf5d",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1366718bd46fbf5d",
+        "type": "ui_tab",
+        "name": "     Flow 3_fecha",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    }
+]
