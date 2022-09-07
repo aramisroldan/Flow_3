@@ -45,18 +45,22 @@ Para el correcto funcionamiento de este flow debes cumplir con los siguientes re
 
 5. Posteriormente agregamos un nuevo tab y lo nombramos "Flow 3_fecha"
 
+![Funcionamiento del programa](https://github.com/aramisroldan/Flow_3/blob/main/img1.png)
+
 6. Agrgamos un grupo y lo nombramos como "fecha formato legible"
 
 7. Agregar un bloque `texto` de la sección dashboard y configurar del siguiente modo:
 
 
-![Funcionamiento del programa](https://github.com/aramisroldan/Flow-2/blob/main/Flow2.png)
+![Funcionamiento del programa](https://github.com/aramisroldan/Flow_3/blob/main/img2.png)
 
 
 ## Resultados
 En la siguente imagen se puede observar una vista del funcionamiento de este flow:
 
-![Funcionamiento del programa](https://github.com/aramisroldan/Flow-2/blob/main/Flow2.png)
+![Funcionamiento del programa](https://github.com/aramisroldan/Flow_3/blob/main/Funcionamieto1.png)
+
+![Funcionamiento del programa](https://github.com/aramisroldan/Flow_3/blob/main/funcionamiento2.png)
 
 ## Evidencias 
 
